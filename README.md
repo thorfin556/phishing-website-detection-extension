@@ -28,7 +28,8 @@ This project is a Chrome extension that detects phishing websites using a machin
 - dataset → training data
 
 ## 📸 Demo
-(Add screenshots here later)
+<img width="389" height="474" alt="image" src="https://github.com/user-attachments/assets/fe477eef-953b-408d-846e-08760a11134e" />
+
 
 ## 👨‍💻 Author
 Mohd Asim
