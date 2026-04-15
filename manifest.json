@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Phishing Extension",
+  "description": "A simple extension to check for Phishing URL",
+  "version": "1.0",
+  "action": {
+    "default_popup": "pop.html"
+  },
+  "permissions": ["activeTab"]
+}
